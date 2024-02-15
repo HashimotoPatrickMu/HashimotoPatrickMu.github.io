@@ -5,7 +5,7 @@
 # title: blank # the website title (if blank, full name will be used instead)
 title: Welcome!! # the website title (if blank, full name will be used instead)
 first_name: Patrick
-# middle_name: 
+middle_name: 
 last_name: Mu
 email: HMU003@e.ntu.edu.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -71,11 +71,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: HashimotoPatrickMu # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: Patrick Mu # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -108,7 +108,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Directly send me the email!!
+#  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
