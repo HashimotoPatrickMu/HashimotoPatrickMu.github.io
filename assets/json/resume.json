@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ptrick Mu",
+    "label": "AI Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hmu003@e.ntu.edu.sg",
+    "phone": "",
+    "url": "",
+    "summary": "An AI Engineer obtained a Bachelor's degree from the Harbin Institute of Technology and a Master's degree from Nanyang Technological University.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Singapore",
+      "countryCode": "Singapore",
+      "region": "Singapore"
     },
     "profiles": [
       {
